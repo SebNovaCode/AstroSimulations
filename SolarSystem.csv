@@ -1,0 +1,17 @@
+Star Mass (kg),Star Radius (m),,,,,,,
+1.99E+30,6.96E+09,,,,,,,
+,,,,,,,,
+Comet Path Color,Mass (kg),x (m),y (m),z (m),x Velocity (m/s),y Velocity (m/s),z Velocity (m/s),Render Radius (m)
+Black,1.00E+13,1.50E+12,2.00E+11,0,-18000,-12000,6500,6378000
+,,,,,,,,
+Body Name,Path Color,Model Cmap,Mass (kg),Radius (m),Semi-Major Axis (m),Inclination (deg),Eccentricity,Rendering Resolution (Default 100)
+Mercury,Gray,Greys,3.29E+23,2.44E+06,5.79E+10,7,0.206,20
+Venus,Brown,Greys,4.87E+24,6.05E+06,1.08E+11,3.39,0.007,30
+Earth,Green,Greys,5.97E+24,6.38E+06,1.50E+11,0,0.017,50
+Mars,Red,Greys,6.39E+23,3.40E+06,2.28E+11,1.85,0.094,50
+Ceres,Darkturquoise,Greys,9.40E+20,4.75E+05,4.14E+11,10.6,0.079,100
+Jupiter,Gold,Greys,1.90E+27,7.15E+07,7.78E+11,1.31,0.049,100
+Saturn,Orange,Greys,5.68E+26,6.03E+07,1.43E+12,2.49,0.052,100
+Uranus,Aqua,Greys,8.68E+25,2.54E+07,2.87E+12,0.77,0.047,100
+Neptune,Blue,Greys,1.02E+26,2.46E+07,4.51E+12,1.77,0.01,100
+Pluto,Grey,Greys,1.30E+22,1.19E+06,5.87E+12,17.14,0.245,100
